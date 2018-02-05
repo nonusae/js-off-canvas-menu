@@ -3,7 +3,7 @@ A particular off canvas menu implementation
 
 ---
 
-## Instrcution
+## Instruction
 - Clone this repo
 - In your terminal `sudo npm -g install http-server`
 - `cd` into project directory ,then run `http-server`
